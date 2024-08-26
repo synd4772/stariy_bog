@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Jukku\Jukku\obj\Debug\net8.0\Jukku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Jukku\Jukku\obj\Debug\net8.0\Jukku.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Jukku\Jukku\obj\Debug\net8.0\Jukku.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Jukku\Jukku\obj\Debug\net8.0\Jukku.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Jukku\Jukku\bin\Debug\net8.0\Jukku.exe
+C:\Users\opilane\source\repos\Jukku\Jukku\bin\Debug\net8.0\Jukku.deps.json
+C:\Users\opilane\source\repos\Jukku\Jukku\bin\Debug\net8.0\Jukku.runtimeconfig.json
+C:\Users\opilane\source\repos\Jukku\Jukku\bin\Debug\net8.0\Jukku.dll
+C:\Users\opilane\source\repos\Jukku\Jukku\bin\Debug\net8.0\Jukku.pdb
+C:\Users\opilane\source\repos\Jukku\Jukku\obj\Debug\net8.0\Jukku.dll
+C:\Users\opilane\source\repos\Jukku\Jukku\obj\Debug\net8.0\refint\Jukku.dll
+C:\Users\opilane\source\repos\Jukku\Jukku\obj\Debug\net8.0\Jukku.pdb
+C:\Users\opilane\source\repos\Jukku\Jukku\obj\Debug\net8.0\Jukku.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Jukku\Jukku\obj\Debug\net8.0\ref\Jukku.dll
